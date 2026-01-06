@@ -1,6 +1,8 @@
+[![Tic-Tac-Toe](https://raw.githubusercontent.com/satya00089/tic-tac-toe/main/public/tic-tac-toe.png)](https://satya00089.github.io/tic-tac-toe/)
+
 # Tic-Tac-Toe
 
-A minimal Tic-Tac-Toe game built with Next.js to understand the **Minimax algorithm** with a real-world example.
+A minimal Tic-Tac-Toe game built with Next.js to understand the **Minimax algorithm**.
 
 ## Features
 
